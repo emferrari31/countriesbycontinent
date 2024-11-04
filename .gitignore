@@ -1,0 +1,48 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Node modules and build outputs
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Ignore specific directories outside the project root
+/2024-jul-fst-film-quote-quiz/
+/2_PHP_Exercises/
+/3_PHP_DB/
+/4_Javascript/
+/5_React/
+/6_OOP/
+/7_MVC/
+/8_Node/
+/9_Typescript/
+/AcademyPortal/
+/PHP_Frameworks/
+/TechInterviewTests/
+/collection-app/
+/emmaTest/
+/fast-food-app/
+/goingOverExcercises/
+/index.php
+/my-project-test/
+/portfolioJSOctober24/
+/vite-project/
+
