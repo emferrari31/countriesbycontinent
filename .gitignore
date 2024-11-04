@@ -23,26 +23,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-
-# Ignore specific directories outside the project root
-/2024-jul-fst-film-quote-quiz/
-/2_PHP_Exercises/
-/3_PHP_DB/
-/4_Javascript/
-/5_React/
-/6_OOP/
-/7_MVC/
-/8_Node/
-/9_Typescript/
-/AcademyPortal/
-/PHP_Frameworks/
-/TechInterviewTests/
-/collection-app/
-/emmaTest/
-/fast-food-app/
-/goingOverExcercises/
-/index.php
-/my-project-test/
-/portfolioJSOctober24/
-/vite-project/
-
